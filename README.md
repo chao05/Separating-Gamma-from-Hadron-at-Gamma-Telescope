@@ -1,1 +1,3 @@
-# Separating-Gamma-from-Hadron-at-Gamma-Telescope
+This project is about separating gamma from hadron at gamma telescope. The dataset is from UCI repository. The dataset and its associated description can be found here. https://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope
+
+Ten features are available in this dataset, and seven out of them have been picked to construct the model. 19020 samples have been involved to train the model which was constructed with the algorithm of Support Vector Classifier. The model's performance measured by 'f1' achieved a score of 0.79 with training score and test score converging at 9000 samples, indicating that the model is reliable with no overfitting. 
